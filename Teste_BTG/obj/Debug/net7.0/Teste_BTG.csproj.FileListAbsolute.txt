@@ -1,0 +1,15 @@
+C:\Projetos\Teste_BTG\Teste_BTG\Teste_BTG\bin\Debug\net7.0\Teste_BTG.exe
+C:\Projetos\Teste_BTG\Teste_BTG\Teste_BTG\bin\Debug\net7.0\Teste_BTG.deps.json
+C:\Projetos\Teste_BTG\Teste_BTG\Teste_BTG\bin\Debug\net7.0\Teste_BTG.runtimeconfig.json
+C:\Projetos\Teste_BTG\Teste_BTG\Teste_BTG\bin\Debug\net7.0\Teste_BTG.dll
+C:\Projetos\Teste_BTG\Teste_BTG\Teste_BTG\bin\Debug\net7.0\Teste_BTG.pdb
+C:\Projetos\Teste_BTG\Teste_BTG\Teste_BTG\obj\Debug\net7.0\Teste_BTG.csproj.AssemblyReference.cache
+C:\Projetos\Teste_BTG\Teste_BTG\Teste_BTG\obj\Debug\net7.0\Teste_BTG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Teste_BTG\Teste_BTG\Teste_BTG\obj\Debug\net7.0\Teste_BTG.AssemblyInfoInputs.cache
+C:\Projetos\Teste_BTG\Teste_BTG\Teste_BTG\obj\Debug\net7.0\Teste_BTG.AssemblyInfo.cs
+C:\Projetos\Teste_BTG\Teste_BTG\Teste_BTG\obj\Debug\net7.0\Teste_BTG.csproj.CoreCompileInputs.cache
+C:\Projetos\Teste_BTG\Teste_BTG\Teste_BTG\obj\Debug\net7.0\Teste_BTG.dll
+C:\Projetos\Teste_BTG\Teste_BTG\Teste_BTG\obj\Debug\net7.0\refint\Teste_BTG.dll
+C:\Projetos\Teste_BTG\Teste_BTG\Teste_BTG\obj\Debug\net7.0\Teste_BTG.pdb
+C:\Projetos\Teste_BTG\Teste_BTG\Teste_BTG\obj\Debug\net7.0\Teste_BTG.genruntimeconfig.cache
+C:\Projetos\Teste_BTG\Teste_BTG\Teste_BTG\obj\Debug\net7.0\ref\Teste_BTG.dll

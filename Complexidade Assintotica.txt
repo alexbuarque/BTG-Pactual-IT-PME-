@@ -1,0 +1,19 @@
+Analise Assintórica do codigo escrito:
+Analisei trecho a trecho do codigo e com essa analise somei a complexidade de cada um, com isso temos:
+
+Inicialização do array de arrays: O(1)
+Função GerarSubArray: O(n)
+Exibição dos arrays: O(m)
+Cálculo da quantidade de tijolos cortados: O(r)
+Encontrar o menor número de tijolos cortados: O(1)
+
+A complexidade dominante é O(r), onde r é a iteração da rodada. Como r varia de 0 a 28, a complexidade é O(28)= O(1), 
+o que significa que a complexidade total é linear em relação ao tamanho dos sub-arrays.
+
+
+Então, em resumo, a complexidade assintótica do código fornecido é:
+O(n+m)
+
+onde:
+n é o número de elementos em cada sub-array (médio).
+m é o tamanho dos sub-arrays (médio).
